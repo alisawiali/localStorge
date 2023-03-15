@@ -1,0 +1,17 @@
+{
+  "name": "variabel-operators-strings",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "watchjs": "nodemon"
+  },
+  "author": "Imad",
+  "license": "ISC",
+  "type": "module",
+  "keywords": [],
+  "description": "",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
