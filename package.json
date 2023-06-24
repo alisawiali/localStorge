@@ -1,0 +1,17 @@
+{
+  "name": "localstorge",
+  "version": "1.0.0",
+  "description": "",
+  "main": "main.js",
+  "scripts": {
+    "sass": "sass sass/main.scss dist/css/style.css -w",
+    "watchjs": "nodemon"
+  },
+  "keywords": [],
+  "author": "Imad",
+  "license": "ISC",
+  "type": "module",
+  "devDependencies": {
+    "nodemon": "^2.0.21"
+  }
+}
